@@ -1,3 +1,4 @@
 This is second file 
 I am using Nano to create file
+I am updating this file after commit
 
